@@ -1,0 +1,12 @@
+---
+:id: 112861142
+:submitters:
+- :name: El Chu
+  :email: hc3294@columbia.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-22 04:16:42.287856000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-21 20:16:42.287856000 Z
+:status: failed
+:score: 46.0
