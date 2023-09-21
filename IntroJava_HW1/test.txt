@@ -1,0 +1,22 @@
+Name: El Chu
+UNI: Hc3294
+Assignment: PP1
+
+<Minutes.java>
+    I started off with getting input from the user for both the days and weeks, 
+In order order to calculate the minutes you have to do basic conversion math to 
+get the values being multiplied (1440 and 10080) so the values are in minutes
+,and then in the end I just outputted the number of minutes.
+
+
+<Average.java>
+    This one was probably the trickiest. I didn't really know how to start but I knew
+I had to incorporate some sort of loop, hence the "while". In order to ensure the loop 
+kept running as the user continued to input values, I needed to declare an integer and set a 
+value (hence sum= 0). Once in the loop, the code would consistently ask for a new number if the 
+user wished for it to be included with the average, and then I output the average results.
+
+<Easter.java>
+    This one was easier than I thought it was going to be. I essentially just got the year input
+from the user, and then followed what each step wanted me to do, alternating between / and %, and
+then for the output, I just put the day and month as an integer.
